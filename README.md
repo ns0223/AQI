@@ -1,4 +1,4 @@
-# AQI-
+# AQI
 AQI detector with ESP WROOM 32 module
 MQ-135 sensor
 LM-35 DZ sensor
